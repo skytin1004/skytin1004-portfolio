@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "minseok-song-b6347b26a/",
   medium: "",
   twitter: "",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
